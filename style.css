@@ -1,0 +1,15 @@
+/* UTILS */
+
+.bg-color-darkslategrey {
+    background-color: darkslategray;
+}
+
+.bg-color-none {
+    background-color: transparent;
+}
+
+h1 {
+    font-size: 4rem;
+    text-align: center;
+    color: white;
+}
