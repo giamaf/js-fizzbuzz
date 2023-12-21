@@ -13,3 +13,35 @@ h1 {
     text-align: center;
     color: white;
 }
+
+.square {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.no-multiple {
+    background-color: blueviolet;
+    color: black;
+}
+
+.fizz {
+    background-color: darkcyan;
+    color: black;
+}
+
+.buzz {
+    background-color: yellow;
+    color: black;
+}
+
+.fizzbuzz {
+    background-color: red;
+    color: black;
+}
+
+.col {
+    flex: 1 0 10%;
+}
